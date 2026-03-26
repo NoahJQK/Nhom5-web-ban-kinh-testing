@@ -84,7 +84,7 @@
 
 ---
 
-## 4. 📅 Kế hoạch thực hiện
+## 4. Kế hoạch thực hiện
 
 | Tuần | Công việc | Người phụ trách |
 |------|----------|----------------|
@@ -104,7 +104,7 @@
 
 ---
 
-## 6. 🐞 Quản lý công việc & lỗi
+## 6. Quản lý công việc & lỗi
 
 - Sử dụng GitHub Issues:
   - Giao việc  
