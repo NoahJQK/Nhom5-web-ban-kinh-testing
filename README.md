@@ -127,7 +127,7 @@ Sử dụng GitHub Issues để:
 
 ---
 
-## Kết quả mong đợi
+## Kết quả mong đợi:
 - Phát hiện các lỗi chức năng của hệ thống  
 - Đảm bảo hệ thống hoạt động đúng yêu cầu  
 - Xây dựng quy trình kiểm thử rõ ràng  
