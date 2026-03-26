@@ -89,13 +89,7 @@ Quy trình kiểm thử gồm các bước:
 
 ---
 
-## 6. Các chức năng không kiểm thử
-- Không kiểm thử mã nguồn (white-box)
-- Không kiểm thử các module ngoài phạm vi
-
----
-
-## 7. Phân công nhân sự
+## 6. Phân công nhân sự
 
 | Thành viên | Vai trò | Công việc |
 |-----------|--------|----------|
@@ -106,7 +100,7 @@ Quy trình kiểm thử gồm các bước:
 
 ---
 
-## 8. Môi trường kiểm thử
+## 7. Môi trường kiểm thử
 
 - Trình duyệt: Chrome, Edge
 - Hệ điều hành: Windows 10/11
@@ -115,7 +109,7 @@ Quy trình kiểm thử gồm các bước:
 
 ---
 
-## 9. Kế hoạch thực hiện
+## 8. Kế hoạch thực hiện
 
 | Giai đoạn | Nội dung |
 |----------|---------|
@@ -126,7 +120,7 @@ Quy trình kiểm thử gồm các bước:
 
 ---
 
-## 10. Quản lý lỗi
+## 9. Quản lý lỗi
 
 - Sử dụng GitHub Issues:
   - Ghi nhận lỗi
@@ -135,7 +129,7 @@ Quy trình kiểm thử gồm các bước:
 
 ---
 
-## 11. Tiêu chí hoàn thành
+## 10. Tiêu chí hoàn thành
 
 - Tất cả test case được thực hiện
 - Các lỗi được ghi nhận đầy đủ
@@ -143,7 +137,7 @@ Quy trình kiểm thử gồm các bước:
 
 ---
 
-## 12. Deliverables
+## 11. Deliverables
 
 - Test Plan
 - Test Case
@@ -153,21 +147,13 @@ Quy trình kiểm thử gồm các bước:
 
 ---
 
-## 13. Rủi ro
+## 12. Rủi ro
 
 | Rủi ro | Giải pháp |
 |-------|----------|
 | Thiếu thời gian | Chia công việc rõ ràng |
 | Lỗi không phát hiện | Áp dụng nhiều kỹ thuật test |
 | Thiếu phối hợp | Họp nhóm định kỳ |
-
----
-
-## 14. Minh chứng
-
-- Ảnh Test Case
-- Video kiểm thử
-- Ảnh lỗi phát hiện
 
 ---
 
